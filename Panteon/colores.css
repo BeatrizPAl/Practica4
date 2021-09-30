@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+
+#panteon{
+    display: flex;
+    background-image: url(panteon.jpg);
+    width: 722px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+.columnas {
+    width: 65px;
+    height: 185px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 200px;
+    overflow-y: scroll;
+}
+
+#primera{
+    margin-left: 200px;
+}
